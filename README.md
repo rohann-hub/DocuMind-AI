@@ -341,6 +341,19 @@ This system can be adapted for many real-world applications:
 
 This project is open-source. Feel free to use, modify, and distribute with attribution.
 
+<section>
+<h2>👨‍💻 Author</h2>
+
+<p><strong>Rohan</strong></p>
+
+<p>
+<a href="https://www.linkedin.com/in/rupjit-shil/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-Rupjit%20Shil-blue?style=for-the-badge&logo=linkedin">
+</a>
+</p>
+
+</section>
+
 ---
 
 <div align="center">
